@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>战国策三十三卷_19</folder>
+	<filename>战国策三十三卷_230.png</filename>
+	<path>G:\OCR数据集\新建文件夹 (2)\战国策三十三卷_19\战国策三十三卷_230.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2572</width>
+		<height>4523</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>國</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2082</xmin>
+			<ymin>921</ymin>
+			<xmax>2248</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>卷</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2084</xmin>
+			<ymin>1268</ymin>
+			<xmax>2246</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+</annotation>
