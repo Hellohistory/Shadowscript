@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>说文解字系传四十卷附校勘记三卷南唐徐锴传释清道光十九年祁寯藻依景宋钞本重雕后印丙本黑白版_0190.png</filename>
+    <source/>
+    <size>
+        <width>1249</width>
+        <height>2388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>郭</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1183</xmin>
+            <ymin>2308</ymin>
+            <xmax>1241</xmax>
+            <ymax>2351</ymax>
+        </bndbox>
+    </object>
+</annotation>

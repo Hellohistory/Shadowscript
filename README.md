@@ -24,3 +24,16 @@
 
 **一起走进中文古籍的世界，让历史的声音在今日重新被听见。**
 
+### 说在最后
+
+整个项目的标注使用了[看典古籍](https://kandianguji.com/)的API，这个项目的推进离不开[看典古籍](https://kandianguji.com/)的大力支持，请各位支持[看典古籍](https://kandianguji.com/)的发展（本项目与看典古籍官方没有联系，募捐纯属个人行为）
+
+[看典古籍官方捐赠页面](https://kandianguji.com/about_kdgj)
+
+##### 快速捐赠
+
+![微信捐赠](image/weixin.png)   
+
+![支付宝](image/zhifubao.png)
+
+

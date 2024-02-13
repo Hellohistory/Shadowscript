@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>文献通考_三百四十八卷_元_马端临撰_明嘉靖三年司礼监刊本_哈佛大学图书馆藏_黑白版_15692.jpg</filename>
+    <source/>
+    <size>
+        <width>2192</width>
+        <height>4114</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>考</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1862</xmin>
+            <ymin>1187</ymin>
+            <xmax>2013</xmax>
+            <ymax>1348</ymax>
+        </bndbox>
+    </object>
+</annotation>
